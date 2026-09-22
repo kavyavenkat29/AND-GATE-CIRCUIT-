@@ -26,9 +26,10 @@
 
 3. # **Complete the Loop**: Solder the other end of the resistor back to the battery negative terminal![][image2]
 
-4. # **Test**: Connect power to **both switches together**  and  turn on the ligpressht![][image3] t.
+4. # **Test**: Connect power to **both switches together**  and  turn on the ligpressht![https://github.com/kavyavenkat29/AND-GATE-CIRCUIT-/blob/main/Truth%20table.jpg][image3] t.
 
-# **![][image4]**
+# **![https://github.com/kavyavenkat29/AND-GATE-CIRCUIT-/blob/main/AND%20Gate%20.jpg][image4]**
+# **![https://github.com/kavyavenkat29/AND-GATE-CIRCUIT-/blob/main/IMG-20260921-WA0014.jpg][image5]**
 
 # **Notes**
 
